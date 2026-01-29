@@ -7,8 +7,9 @@
 
 ---
 ### 📥 Download & Installation
-1.  **Click here to download:** [**Download Channels Farmer**](https://www.mediafire.com/file/q679ie45x4vgblf/channelsfarmer.py/file)
+1.  **Click here to download:** [**Download Channels Farmer**](https://www.mediafire.com/file/fyk3wwj5wl1suhf/ChannelFarmer-v2.exe/file)
 2.  **No installation required!** Just run the file.
+
 ### 🎮 How to Use
 1.  **Load File:** Click `📂 Open File` and select your receiver's `.chl` file.
 2.  **Select Channels:**
@@ -27,7 +28,7 @@
 ---
 
 ### 📥 طريقة التحميل والتشغيل
-1.  **رابط التحميل:** [**اضغط هنا لتحميل Channels Farmer**](https://www.mediafire.com/file/q679ie45x4vgblf/channelsfarmer.py/file)
+1.  **رابط التحميل:** [**اضغط هنا لتحميل Channels Farmer**](https://www.mediafire.com/file/fyk3wwj5wl1suhf/ChannelFarmer-v2.exe/file)
 2.  **البرنامج محمول:** لا يحتاج لتثبيت، فقط قم بتشغيل الملف.
 
 ### 🎮 طريقة الاستخدام
