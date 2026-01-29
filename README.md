@@ -9,8 +9,6 @@
 ### 📥 Download & Installation
 1.  **Click here to download:** [**Download Channels Farmer**](https://www.mediafire.com/file/q679ie45x4vgblf/channelsfarmer.py/file)
 2.  **No installation required!** Just run the file.
-    * *Note: If this is the Python script version, ensure you have Python installed or compile it to EXE first.*
-
 ### 🎮 How to Use
 1.  **Load File:** Click `📂 Open File` and select your receiver's `.chl` file.
 2.  **Select Channels:**
